@@ -1,2 +1,2 @@
 # testingOnly
-this repo is for test purpose only
+* this repo is for test purpose only
